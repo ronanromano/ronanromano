@@ -15,7 +15,7 @@ Currently pursuing a **BA in Artificial Intelligence (Purdue)**.
 - **FER Live Demo**  
   → on-device facial emotion recognition with real-time smoothing + panel UI
 - **Case Classification Neural Network**
-- → TF-IDF + Feed-Forward Neural Network
+  → TF-IDF + Feed-Forward Neural Network
   → classifies case summaries into legal categories (e.g., Criminal, Civil, Corporate)  
   → small, fast model trained on labeled case text  
   → outputs a single predicted case type with softmax confidence
